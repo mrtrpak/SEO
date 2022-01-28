@@ -19,3 +19,13 @@
 
 - Time (newer websites have poorer rankings generally)
   - Can take time to get "momentum" going for website
+
+
+## Keywords
+
+A way to connect the people based on what they are searching to your website
+
+1) You must know your prospect's keywords
+2) Don't guess
+3) Use the keywords in your site
+
