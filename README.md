@@ -29,6 +29,8 @@ A way to connect the people based on what they are searching to your website
 2) Don't guess
 3) Use the keywords in your site
 
+- Using KEYWORD ANALYSIS tools is essential to help figure out keywords to use that you have missed as well as eliminate keywords that aren't useful. Google ads and Bing ads can be used to find this data as well as commercial websites. 
+
 #### Brainstorming Keywords
 
 - Write down obvious keywords
