@@ -2,7 +2,7 @@
 
 6 base variables to consider:
 
-- Keywords (words users use in seach box)
+- Keywords (words defined based on what users seach for to direct to your site)
   - understand what your targets are searching for
  
 - Content (stuff on your website)
