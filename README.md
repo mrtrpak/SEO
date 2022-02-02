@@ -29,3 +29,15 @@ A way to connect the people based on what they are searching to your website
 2) Don't guess
 3) Use the keywords in your site
 
+#### Brainstorming Keywords
+
+- Write down obvious keywords
+- Look at competing sites source code as well as keywords used within the websites
+- Ask peers based on your keywords list what it is you are trying to convey/sell
+- Spelling mistakes or words that have multiple ways of being spelled can be used to further optimize. Ex: theatre and theater / realtor and realator. Search engines will commonly correct spelling errors however it should still be put into consideration. 
+- Find synonyms that relate
+- Split/merged words and hyphenated words (overtime - over time / Email - E-mail)
+- Singular or plural words can be searched more or less often and are treated slightly different. (books is more common than book)
+- Geo terms (towns you provide services too, phyiscal location, product location)
+- Your company name
+- Competing terms used from competitors (can be legal issue if trademarked however is useful to see what is being used and what is being searched for.)
